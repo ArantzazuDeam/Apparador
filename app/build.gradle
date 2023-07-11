@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.apparador'
+    namespace 'com.adeam.apparador'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.apparador"
+        applicationId "com.adeam.apparador"
         minSdk 24
         targetSdk 33
         versionCode 1
