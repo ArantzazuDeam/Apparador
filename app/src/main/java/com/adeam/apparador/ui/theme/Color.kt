@@ -1,4 +1,4 @@
-package com.example.apparador.ui.theme
+package com.adeam.apparador.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
